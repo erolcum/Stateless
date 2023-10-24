@@ -12,5 +12,14 @@ You can also use NuGet to find it..<br>
 # Examples of Finite State Machines
 - Traffic light controller
 - Elevator control system
+- GUI event handling
+- Network protocols
+- Natural language processing
+- Home automation
+- Robotics and autonomous systems in factories
+- Chatbots and virtual assistants
+- Compiler design
+- Game development
+- etc
 
 
